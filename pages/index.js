@@ -18,6 +18,7 @@ export default function Home() {
       <div className="p-3 w-[300px] bg-slate-100 my-2 rounded-xl border border-slate-200">
         <p className="break-inside-avoid-column">{time}</p>
       </div>
+      <p className="text-xs">This is the updated version of this app.</p>
     </main>
   )
 }
